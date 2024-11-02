@@ -2,6 +2,18 @@
 class Assets {
   Assets._();
   
+  /// Assets for imagesBackgraundSplashScreen
+  /// assets/images/backgraund_splash_screen.png
+  static const String imagesBackgraundSplashScreen = "assets/images/backgraund_splash_screen.png";
+
+  /// Assets for imagesForSplashAndroid12
+  /// assets/images/for_splash_android12.png
+  static const String imagesForSplashAndroid12 = "assets/images/for_splash_android12.png";
+
+  /// Assets for imagesForSplashIOSAndAndroidBelow12
+  /// assets/images/for_splash_IOS_and_android_below_12.png
+  static const String imagesForSplashIOSAndAndroidBelow12 = "assets/images/for_splash_IOS_and_android_below_12.png";
+
   /// Assets for imagesOnbourdingDoctor
   /// assets/images/onbourding_doctor.png
   static const String imagesOnbourdingDoctor = "assets/images/onbourding_doctor.png";
