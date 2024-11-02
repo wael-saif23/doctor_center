@@ -6,6 +6,14 @@ class Assets {
   /// assets/images/onbourding_doctor.png
   static const String imagesOnbourdingDoctor = "assets/images/onbourding_doctor.png";
 
+  /// Assets for imagesOnlyDocdocLogo
+  /// assets/images/only_docdoc_logo.png
+  static const String imagesOnlyDocdocLogo = "assets/images/only_docdoc_logo.png";
+
+  /// Assets for imagesOnlyIconLogo
+  /// assets/images/only_icon_logo.png
+  static const String imagesOnlyIconLogo = "assets/images/only_icon_logo.png";
+
   /// Assets for svgsAppLogo
   /// assets/svgs/appLogo.svg
   static const String svgsAppLogo = "assets/svgs/appLogo.svg";
