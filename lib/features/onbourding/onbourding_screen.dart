@@ -32,6 +32,7 @@ class OnbourdingScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 32.h),
                   const GetStartedButton(),
+                  
                   SizedBox(height: 32.h),
                 ],
               ),
